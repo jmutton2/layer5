@@ -56,9 +56,13 @@ alt="Service Mesh Pattern" align="left"/>
 
 <p style="clear:both;">
 <h2><a href="https://layer5.io/landscape">Service Mesh Landscape</a></h2>
-<a href="https://layer5.io/landscape"><img src=".github/assets/images/buttons/landscape.png"  
+<a href="https://layer5.io/landscape">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/55411119/182683283-fbd203c8-d16d-4441-b971-6eff7aacbe76.png#gh-dark-mode-only">
+  <img src=".github/assets/images/buttons/landscape.png"  
 style="float:left;margin:10px;" width="125px"
-alt="Service Mesh Landscape Ecosystem" align="left"/></a>
+alt="Service Mesh Landscape Ecosystem" align="left"/>
+</picture></a>
 The <a href="https://layer5.io/landscape">Service Mesh Landscape</a> is a comprehensive collection of prominent service mesh projects and offerings laid out in contrast to one another.
 <br /><br /><br />
 </p>
@@ -69,7 +73,7 @@ The <a href="https://layer5.io/landscape">Service Mesh Landscape</a> is a compre
 <h2><a href="https://layer5.io/projects/service-mesh-performance">Service Mesh Performance</a></h2>
 <a href="https://layer5.io/projects/service-mesh-performance">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/99991521/182012518-f8bba232-dc24-43e7-8eff-ea4cdbed6889.svg#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/99991521/182012518-f8bba232-dc24-43e7-8eff-ea4cdbed6889.svg#gh-dark-mode-only">
   <img src=".github/assets/images/smp-dark-text.svg#gh-light-mode-only"
 style="float:left;margin:10px;" width="125px"
 alt="Service Mesh Performance Specification Index" align="left" />
@@ -79,12 +83,15 @@ The <a href="https://layer5.io/projects/service-mesh-performance">Service Mesh P
 </p>
 <br />
 
-
 <p style="clear:both;">
 <h2><a href="https://layer5.io/projects/image-hub">Image Hub</a></h2>
-<a href="https://layer5.io/projects/image-hub"><img src=".github/assets/images/image-hub/layer5-image-hub.png"
+<a href="https://layer5.io/projects/image-hub">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/55411119/182681579-1c34cf6c-c1d5-4308-9fc9-a1d1b1379b6a.png#gh-dark-mode-only">
+  <img src=".github/assets/images/image-hub/layer5-image-hub.png#gh-light-mode-only"
 style="float:left;margin:10px;" width="125px"
-alt="Image Hub" align="left" /></a>
+alt="Image Hub" align="left" />
+</picture></a>
 <a href="https://layer5.io/projects/image-hub">Image Hub</a> is a demo application which runs on <a href="https://docs.meshery.io/service-meshes/adapters/consul">Consul</a> and facilitates exploring WebAssembly modules used as Envoy Filters.
 Image Hub supports Envoy-based data planes. It is compatible with and can be deployed on Istio and Consul service meshes.
 <br /><br /><br />
@@ -92,11 +99,12 @@ Image Hub supports Envoy-based data planes. It is compatible with and can be dep
 <br />
 
 
+
 <p style="clear:both;">
 <h2><a href="https://github.com/layer5io/meshery-operator">Meshery Operator</a></h2>
 <a href="https://meshery.io/community">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/99991521/182032827-17634cfc-30cb-4797-924c-2eb5413b8023.svg#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/99991521/182032827-17634cfc-30cb-4797-924c-2eb5413b8023.svg#gh-dark-mode-only">
   <img alt="Layer5 Service Mesh Community" src="https://raw.githubusercontent.com/layer5io/meshery-operator/master/img/readme/meshery-operator-dark.svg#gh-light-mode-only" style="margin:10px;" width="125px" align="left" />
 </picture></a>
 <a href="https://github.com/layer5io/meshery-operator">Meshery Operator</a> is the multi-service mesh operator and implementation of MeshSync.
@@ -109,7 +117,7 @@ Image Hub supports Envoy-based data planes. It is compatible with and can be dep
 <h2><a href="https://github.com/layer5io/learn-layer5">Learn Layer5</a></h2>
 <a href="https://github.com/layer5io/learn-layer5">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/99991521/182012730-19bf6776-4ebd-460f-b6bb-75105f2a10bc.svg#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/99991521/182012730-19bf6776-4ebd-460f-b6bb-75105f2a10bc.svg#gh-dark-mode-only">
   <img src=".github/assets/images/layer5/5-light-bg.png#gh-light-mode-only"
 style="margin:10px;" width="125px"
 alt="Layer5" align="left" />
